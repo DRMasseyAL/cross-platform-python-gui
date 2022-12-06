@@ -1,1 +1,8 @@
 kivy
+serial
+serial.tools
+io
+time
+sys
+glob
+re
